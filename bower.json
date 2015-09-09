@@ -1,0 +1,19 @@
+{
+  "name": "Compatibility-Grouping",
+  "version": "0.0.1",
+  "authors": [
+    "Matthew Brooks <mdeanbrooks@gmail.com>"
+  ],
+  "description": "grouping via graph min-cuts",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
